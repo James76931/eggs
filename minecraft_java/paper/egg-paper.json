@@ -4,7 +4,7 @@
         "version": "PTDL_v1"
     },
     "exported_at": "2019-08-01T04:49:37-04:00",
-    "name": "Paper",
+    "name": "Paper (Java 14)",
     "author": "parker@pterodactyl.io",
     "description": "High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies.",
     "image": "quay.io\/parkervcp\/pterodactyl-images:debian_openjdk-14",
